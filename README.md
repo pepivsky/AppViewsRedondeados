@@ -68,10 +68,11 @@ Para **aplicar el estilo** en el botón coloca la siguiente línea :
 ```xml
 android:background="@drawable/button_rounded_background_fill
 ```
+![](https://i.imgur.com/oiFWLyK.jpg)  
 
-![](https://i.imgur.com/oiFWLyK.jpg)
 
-**Puedes hacerlo con un EditText para obtener algo similar**
+**Puedes hacerlo con un EditText para obtener algo similar a esto:**  
+
 ![](https://i.imgur.com/v7p7TVt.jpg)
 
 En el EditText coloca la siguiente línea :
